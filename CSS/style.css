@@ -489,15 +489,4 @@ nav ul li:hover::after{
          display: flex;
          width: 80%;
      }
-
-
-     /* Media queries for winner list video*/
-     .video-container iframe{
-         width: 300px;
-         height: 300px;
-     }
-
-     .logo-footer img{width: 70%;
-    }
-
 }
